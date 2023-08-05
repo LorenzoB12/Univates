@@ -1,0 +1,41 @@
+.card-head {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, .03);
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.input-perso {
+	height: 30px;
+	font-size: 14px;
+	word-wrap: break-word;
+}
+
+.row{
+    margin-top: 50px;
+}
+
+.foto{
+    height: 380px;
+    width: auto;
+}
+
+.custom-text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.margin-perso{
+    margin-bottom: 0px !important;
+}
+
+.ul-sem-estilo {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
