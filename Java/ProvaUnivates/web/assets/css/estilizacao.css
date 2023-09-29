@@ -1,0 +1,11 @@
+.card-head {
+	padding: .75rem 1.25rem;
+	margin-bottom: 0;
+	background-color: rgba(0, 178, 179, .05);
+	border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.card {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
